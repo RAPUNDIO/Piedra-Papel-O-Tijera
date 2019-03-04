@@ -1,0 +1,61 @@
+
+body
+{
+  font-size: 40pt;
+  background-color:#18f;
+}
+
+.option{
+   font-family:cursive;
+   color:#000;
+   text-decoration:overline;
+   background-color:#fac324;
+}
+.back{
+   position:absolute;
+   margin-left:80%;
+   margin-top:-10%;
+   background-color:#fac;
+}
+
+
+/*******************************************************/
+/*esto es para multijugador*/
+h1{
+   font-size: 80px;
+   text-align:center;
+   text-decoration:overline;
+   font-family:cursive;
+   margin-left:25%;
+   width:50%;
+}
+p{
+   
+   font-size:20px;
+   text-align:justify;
+   font-family:cursive;
+}
+.container{
+  background-color:#fe3568;
+  text-align:center;
+}
+.container input{
+   width:80px;
+   height:80px;
+   font-size:80%;
+}
+.pointer #pointer2{
+   width:280px;
+   background-color:#1f8;
+}
+.pointer #pointer1{
+   width:280px;
+   background-color:#fac324;
+}
+.poiter #pointera{
+   background-color:#1f8;
+}
+.poiter #pointerb{
+   background-color:#fac324;
+}
+/* aqui sierra estilos para multijugador*/
